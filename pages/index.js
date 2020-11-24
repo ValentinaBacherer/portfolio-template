@@ -45,7 +45,8 @@ export default function Home() {
             position="Desarrolladora de software, Clinica Montalvo"
             place="Santa Cruz, Bolivia"
           >
-            Diseño, desarrollo e implementacion del sistema de gestion de la clínica
+            Diseño, desarrollo e implementacion del sistema de gestion de 
+            la clínica con Filemaker.
           </ExperienceBox>
           <ExperienceBox
             date="Enero 1842"
