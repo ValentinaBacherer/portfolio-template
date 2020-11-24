@@ -49,7 +49,7 @@ export default function Home() {
             la clínica con Filemaker.
           </ExperienceBox>
           <ExperienceBox
-            date="Enero 1842"
+            date="Enero 1852"
             position="Matemática"
             place="Universidad de Londres, Reino Unido"
           >
