@@ -21,6 +21,7 @@
 .DS_Store
 *.pem
 text.txt
+poem.txt
 
 # debug
 npm-debug.log*
