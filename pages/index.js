@@ -51,7 +51,7 @@ export default function Home() {
           <ExperienceBox
             date="Enero 1842"
             position="Matemática"
-            place="Universidad de Londres, Bolivia"
+            place="Universidad de Santa Cruz, Bolivia"
           >
             Traducción y mejora del articulo de la máquina analítica de Babbage
           </ExperienceBox>
