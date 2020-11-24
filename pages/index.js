@@ -35,17 +35,18 @@ export default function Home() {
           <CoverText>
             Hola soy Valentina Bacherer. Soy ingeniera y fotógrafa, y me apasiona la vida en todas sus facetas. 
             Admiro la creatividad con la que todos los seres humanos nacemos, que nos ha vuelo capaces de transformar nuestro entorno y llevar a 
-            cabo obras monumentales a lo largo de toda la historia, asi como de construirnos a nosotros mismos y nunca parar 
+            cabo obras monumentales a lo largo de toda la historia, asi como de construirnos a nosotros mismos y nunca dejar 
             de crecer y aprender cosas nuevas. Me gusta mucho leer e investigar, y me interesa la tecnología tanto como
              el arte, ya que ambos son mundos infinitos, donde se pone en juego la capacidad de invención de nuestras mentes
              y donde es posible contribuir con ideas novedosas que incorporan un toque personal.
           </CoverText>
           <ExperienceBox
             date="Agosto 2002-2010"
-            position="Desarrolladora de sistema, Clinica Montalvo"
-            place="Londres, Reino Unido"
+            position="Desarrolladora de software, Clinica Montalvo"
+            place="Santa Cruz, Bolivia"
           >
-            Diseño, desarrollo e implementacion del sistema de gestion de la clínica
+            Diseño, desarrollo e implementacion del sistema de gestion de 
+            la clínica con Filemaker.
           </ExperienceBox>
           <ExperienceBox
             date="Enero 1842"
