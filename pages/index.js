@@ -49,7 +49,7 @@ export default function Home() {
             la clínica con Filemaker.
           </ExperienceBox>
           <ExperienceBox
-            date="Enero 1842"
+            date="Enero 1852"
             position="Matemática"
             place="Universidad de Santa Cruz, Bolivia"
           >
@@ -58,7 +58,7 @@ export default function Home() {
         </LeftColumn>
         <RightColumn>
           <SkillsList name="Educación" icon={FaGraduationCap}>
-            <SkillsItem date="Junio 1835" institution="Universidad de Londres">
+            <SkillsItem date="Junio 1935" institution="Universidad de Las Americas">
               Matemática
             </SkillsItem>
             <SkillsItem date="Enero 1830">Escritora</SkillsItem>
